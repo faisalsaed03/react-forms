@@ -1,0 +1,9 @@
+.frm {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+.ctn {
+  display: flex;
+  justify-content: center;
+}
